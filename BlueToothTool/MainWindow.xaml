@@ -1,0 +1,17 @@
+﻿<Window x:Class="BlueToothTool.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BlueToothTool"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+
+    <GroupBox Header="串口" Width="137">
+        <ComboBox Width="105" Margin="10,13.582,10,254.581" Height="29" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+
+    </GroupBox>
+
+
+
+</Window>
